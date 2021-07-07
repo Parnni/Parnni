@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a Mechanical Engineer with a year of experience in the field of Machine Tool design.
+I am a Mechanical Engineer with a year of experience in the field of Machine Tool design and I am on a mission to switch my career to Artificial Intelligence.
 
 Currently, I am developing skills in Machine and Deep Learning. My end goal is to become an expert in Artificial Intelligence and FORCE robots to do cool backflips.
 
