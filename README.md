@@ -14,18 +14,22 @@ Currently, I am developing skills in Machine and Deep Learning. My end goal is t
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapaticamps81)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.hackerrank.com/prajapaticamps81)
 
-### Top Technologies.
+## Top Technologies.
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 
+
+## Top Languages:
+[![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=Parnni&show_icons=true&theme=tokyonight)](#)
 
 ## Profile Visits.
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=Parnni.Parnni)](#)
 
 ## Github Stats.
-![Parnni's github stats](https://github-readme-stats.vercel.app/api?username=Parnni&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Parnni's github stats](https://github-readme-stats.vercel.app/api?username=Parnni&count_private=true&theme=tokyonight)
