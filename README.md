@@ -12,6 +12,7 @@ Currently, I am developing skills in Machine and Deep Learning. My end goal is t
 
 ## Other Profiles.
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapaticamps81)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.hackerrank.com/prajapaticamps81)
 
 ### Top Technologies.
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -20,9 +21,11 @@ Currently, I am developing skills in Machine and Deep Learning. My end goal is t
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+
 
 ## Profile Visits.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Parnni.Parnni)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=Parnni.Parnni)](#)
 
 ## Github Stats.
 ![Parnni's github stats](https://github-readme-stats.vercel.app/api?username=Parnni&count_private=true&theme=tokyonight&hide=contribs,prs)
