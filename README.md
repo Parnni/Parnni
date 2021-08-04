@@ -1,9 +1,8 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-I am a Mechanical Engineer with a year of experience in the field of Machine Tool design and I am on a mission to switch my career to Artificial Intelligence.
-
-Currently, I am developing skills in Machine and Deep Learning. My end goal is to become an expert in Artificial Intelligence and FORCE robots to do cool backflips.
+I am a Mechanical Engineer with strong background in Python and Artificial Intelligence. I have participated in various competitions with good results to make it up for my inexperience.<br>
+Currently, I am developing skills in Spark, Flask and Advance MySQL. My end goal is to become an expert in Artificial Intelligence and FORCE robots to do cool back-flips. 
 
 ## Reach me out!
 
