@@ -31,7 +31,7 @@ Currently, I am developing skills in Spark, Flask and Advance MySQL. My end goal
 [![Top language](https://github-readme-stats.vercel.app/api/top-langs/?username=Parnni&show_icons=true&theme=tokyonight)](#)
 
 ## Profile Visits.
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Parnni.Parnni)](#)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Parnni.Parnni)
 
 ## Github Stats.
 ![Parnni's github stats](https://github-readme-stats.vercel.app/api?username=Parnni&count_private=true&theme=tokyonight)
