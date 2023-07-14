@@ -1,8 +1,7 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-I am a Data Scientist with strong foundation in Python and Artificial Intelligence. I have participated in various competitions with good results to make it up for my inexperience.<br>
-Currently, I am developing skills in Spark, Flask and Advance MySQL. My end goal is to become an expert in Artificial Intelligence and FORCE robots to do cool back-flips. 
+As a senior Python developer with 3 years of experience, I specialize in designing, developing, testing, and debugging applications. I have a strong grasp of Object-Oriented Programming concepts, Design Patterns, and SOLID principles. This knowledge, coupled with my expertise in creating APIs using Django REST framework, allows me to build powerful and flexible web services. Additionally, I have experience with JavaScript and NextJS for building engaging front-end experiences.
 
 ## Reach me out!
 
